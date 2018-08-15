@@ -1,0 +1,420 @@
+\begin{thebibliography}{44}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{hua(2006)}]{huang2006universal}
+, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Universal approximation using incremental
+  constructive feedforward networks with random hidden nodes}.
+\newblock \bibinfo{journal}{IEEE Transactions on Neural Networks}
+  \bibinfo{volume}{17}, \bibinfo{pages}{879--892}.
+\newblock \DOIprefix\doi{10.1109/TNN.2006.875977}.
+%Type = Inproceedings
+\bibitem[{An and Bhanu(2012)}]{an2012image}
+\bibinfo{author}{An, L.}, \bibinfo{author}{Bhanu, B.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Image super-resolution by extreme learning machine},
+  in: \bibinfo{booktitle}{2012 19th IEEE International Conference on Image
+  Processing}, pp. \bibinfo{pages}{2209--2212}.
+\newblock \DOIprefix\doi{10.1109/ICIP.2012.6467333}.
+%Type = Article
+\bibitem[{Baker and Kanade(2002)}]{1033210}
+\bibinfo{author}{Baker, S.}, \bibinfo{author}{Kanade, T.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Limits on super-resolution and how to break them}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{24}, \bibinfo{pages}{1167--1183}.
+\newblock \DOIprefix\doi{10.1109/TPAMI.2002.1033210}.
+%Type = Article
+\bibitem[{Bartlett(1998)}]{bartlett1998sample}
+\bibinfo{author}{Bartlett, P.L.}, \bibinfo{year}{1998}.
+\newblock \bibinfo{title}{The sample complexity of pattern classification with
+  neural networks: the size of the weights is more important than the size of
+  the network}.
+\newblock \bibinfo{journal}{IEEE Transactions on Information Theory}
+  \bibinfo{volume}{44}, \bibinfo{pages}{525--536}.
+\newblock \DOIprefix\doi{10.1109/18.661502}.
+%Type = Article
+\bibitem[{Chan et~al.(2007)Chan, Ng, Yau and Yip}]{chan2007superresolution}
+\bibinfo{author}{Chan, T.F.}, \bibinfo{author}{Ng, M.K.}, \bibinfo{author}{Yau,
+  A.C.}, \bibinfo{author}{Yip, A.M.}, \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Superresolution image reconstruction using fast
+  inpainting algorithms}.
+\newblock \bibinfo{journal}{Applied and Computational Harmonic Analysis}
+  \bibinfo{volume}{23}, \bibinfo{pages}{3 -- 24}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S1063520307000218},
+  \DOIprefix\doi{https://doi.org/10.1016/j.acha.2006.09.005}.
+  \bibinfo{note}{special Issue on Mathematical Imaging}.
+%Type = Inproceedings
+\bibitem[{Cosmo et~al.(2017)Cosmo, Inaba and Salles}]{cosmo2017single}
+\bibinfo{author}{Cosmo, D.L.}, \bibinfo{author}{Inaba, F.K.},
+  \bibinfo{author}{Salles, E.O.T.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Single image super-resolution using multiple extreme
+  learning machine regressors}, in: \bibinfo{booktitle}{2017 30th SIBGRAPI
+  Conference on Graphics, Patterns and Images (SIBGRAPI)}, pp.
+  \bibinfo{pages}{397--404}.
+\newblock \DOIprefix\doi{10.1109/SIBGRAPI.2017.59}.
+%Type = Inproceedings
+\bibitem[{Dong et~al.(2014)Dong, Loy, He and Tang}]{dong2014learning}
+\bibinfo{author}{Dong, C.}, \bibinfo{author}{Loy, C.C.}, \bibinfo{author}{He,
+  K.}, \bibinfo{author}{Tang, X.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Learning a deep convolutional network for image
+  super-resolution}, in: \bibinfo{booktitle}{European Conference on Computer
+  Vision}, \bibinfo{organization}{Springer}. pp. \bibinfo{pages}{184--199}.
+%Type = Article
+\bibitem[{Dong et~al.(2016)Dong, Loy, He and Tang}]{dong2016image}
+\bibinfo{author}{Dong, C.}, \bibinfo{author}{Loy, C.C.}, \bibinfo{author}{He,
+  K.}, \bibinfo{author}{Tang, X.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Image super-resolution using deep convolutional
+  networks}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{38}, \bibinfo{pages}{295--307}.
+\newblock \DOIprefix\doi{10.1109/TPAMI.2015.2439281}.
+%Type = Article
+\bibitem[{Dong et~al.(2013)Dong, Zhang, Lukac and Shi}]{dong2013sparse}
+\bibinfo{author}{Dong, W.}, \bibinfo{author}{Zhang, L.},
+  \bibinfo{author}{Lukac, R.}, \bibinfo{author}{Shi, G.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Sparse representation based image interpolation with
+  nonlocal autoregressive modeling}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{22}, \bibinfo{pages}{1382--1394}.
+\newblock \DOIprefix\doi{10.1109/TIP.2012.2231086}.
+%Type = Article
+\bibitem[{Freeman et~al.(2000)Freeman, Pasztor and
+  Carmichael}]{freeman2000learning}
+\bibinfo{author}{Freeman, W.T.}, \bibinfo{author}{Pasztor, E.C.},
+  \bibinfo{author}{Carmichael, O.T.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Learning low-level vision}.
+\newblock \bibinfo{journal}{International Journal of Computer Vision}
+  \bibinfo{volume}{40}, \bibinfo{pages}{25--47}.
+\newblock \URLprefix \url{https://doi.org/10.1023/A:1026501619075},
+  \DOIprefix\doi{10.1023/A:1026501619075}.
+%Type = Inproceedings
+\bibitem[{He and Siu(2011)}]{he2011single}
+\bibinfo{author}{He, H.}, \bibinfo{author}{Siu, W.C.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Single image super-resolution using gaussian process
+  regression}, in: \bibinfo{booktitle}{CVPR 2011}, pp.
+  \bibinfo{pages}{449--456}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2011.5995713}.
+%Type = Article
+\bibitem[{Huang et~al.(2012)Huang, Zhou, Ding and Zhang}]{huang2012extreme}
+\bibinfo{author}{Huang, G.B.}, \bibinfo{author}{Zhou, H.},
+  \bibinfo{author}{Ding, X.}, \bibinfo{author}{Zhang, R.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Extreme learning machine for regression and
+  multiclass classification}.
+\newblock \bibinfo{journal}{IEEE Transactions on Systems, Man, and Cybernetics,
+  Part B (Cybernetics)} \bibinfo{volume}{42}, \bibinfo{pages}{513--529}.
+\newblock \DOIprefix\doi{10.1109/TSMCB.2011.2168604}.
+%Type = Inproceedings
+\bibitem[{Huang et~al.(2004)Huang, Zhu and Siew}]{huang2004extreme}
+\bibinfo{author}{Huang, G.B.}, \bibinfo{author}{Zhu, Q.Y.},
+  \bibinfo{author}{Siew, C.K.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Extreme learning machine: a new learning scheme of
+  feedforward neural networks}, in: \bibinfo{booktitle}{2004 IEEE International
+  Joint Conference on Neural Networks (IEEE Cat. No.04CH37541)}, pp.
+  \bibinfo{pages}{985--990 vol.2}.
+\newblock \DOIprefix\doi{10.1109/IJCNN.2004.1380068}.
+%Type = Article
+\bibitem[{Huang et~al.(2006)Huang, Zhu and Siew}]{huang2006extreme}
+\bibinfo{author}{Huang, G.B.}, \bibinfo{author}{Zhu, Q.Y.},
+  \bibinfo{author}{Siew, C.K.}, \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Extreme learning machine: Theory and applications}.
+\newblock \bibinfo{journal}{Neurocomputing} \bibinfo{volume}{70},
+  \bibinfo{pages}{489 -- 501}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S0925231206000385},
+  \DOIprefix\doi{https://doi.org/10.1016/j.neucom.2005.12.126}.
+  \bibinfo{note}{neural Networks}.
+%Type = Inproceedings
+\bibitem[{Huang and Siu(2015)}]{huang2015practical}
+\bibinfo{author}{Huang, J.J.}, \bibinfo{author}{Siu, W.C.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Practical application of random forests for
+  super-resolution imaging}, in: \bibinfo{booktitle}{IEEE International
+  Symposium on Circuits and Systems (ISCAS)}, pp. \bibinfo{pages}{2161--2164}.
+\newblock \DOIprefix\doi{10.1109/ISCAS.2015.7169108}.
+%Type = Article
+\bibitem[{Huang and Siu(2017)}]{huang2017learning}
+\bibinfo{author}{Huang, J.J.}, \bibinfo{author}{Siu, W.C.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Learning hierarchical decision trees for single-image
+  super-resolution}.
+\newblock \bibinfo{journal}{IEEE Transactions on Circuits and Systems for Video
+  Technology} \bibinfo{volume}{27}, \bibinfo{pages}{937--950}.
+%Type = Article
+\bibitem[{Huang et~al.(2015)Huang, Siu and Liu}]{huang2015fast}
+\bibinfo{author}{Huang, J.J.}, \bibinfo{author}{Siu, W.C.},
+  \bibinfo{author}{Liu, T.R.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Fast image interpolation via random forests}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{24}, \bibinfo{pages}{3232--3245}.
+\newblock \DOIprefix\doi{10.1109/TIP.2015.2440751}.
+%Type = Article
+\bibitem[{Irani and Peleg(1991)}]{IRANI1991231}
+\bibinfo{author}{Irani, M.}, \bibinfo{author}{Peleg, S.}, \bibinfo{year}{1991}.
+\newblock \bibinfo{title}{Improving resolution by image registration}.
+\newblock \bibinfo{journal}{CVGIP: Graphical Models and Image Processing}
+  \bibinfo{volume}{53}, \bibinfo{pages}{231 -- 239}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/104996529190045L},
+  \DOIprefix\doi{https://doi.org/10.1016/1049-9652(91)90045-L}.
+%Type = Inproceedings
+\bibitem[{Kim et~al.(2016a)Kim, Lee and Lee}]{kim2016accurate}
+\bibinfo{author}{Kim, J.}, \bibinfo{author}{Lee, J.K.}, \bibinfo{author}{Lee,
+  K.M.}, \bibinfo{year}{2016}a.
+\newblock \bibinfo{title}{Accurate image super-resolution using very deep
+  convolutional networks}, in: \bibinfo{booktitle}{2016 IEEE Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, pp.
+  \bibinfo{pages}{1646--1654}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2016.182}.
+%Type = Inproceedings
+\bibitem[{Kim et~al.(2016b)Kim, Lee and Lee}]{kim2016deeply}
+\bibinfo{author}{Kim, J.}, \bibinfo{author}{Lee, J.K.}, \bibinfo{author}{Lee,
+  K.M.}, \bibinfo{year}{2016}b.
+\newblock \bibinfo{title}{Deeply-recursive convolutional network for image
+  super-resolution}, in: \bibinfo{booktitle}{2016 IEEE Conference on Computer
+  Vision and Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{1637--1645}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2016.181}.
+%Type = Article
+\bibitem[{Kim and Kwon(2010)}]{kim2010single}
+\bibinfo{author}{Kim, K.I.}, \bibinfo{author}{Kwon, Y.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Single-image super-resolution using sparse regression
+  and natural image prior}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{32}, \bibinfo{pages}{1127--1133}.
+\newblock \DOIprefix\doi{10.1109/TPAMI.2010.25}.
+%Type = Inproceedings
+\bibitem[{Lai et~al.(2017)Lai, Huang, Ahuja and Yang}]{lai2017deep}
+\bibinfo{author}{Lai, W.S.}, \bibinfo{author}{Huang, J.B.},
+  \bibinfo{author}{Ahuja, N.}, \bibinfo{author}{Yang, M.H.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Deep laplacian pyramid networks for fast and accurate
+  super-resolution}, in: \bibinfo{booktitle}{2017 IEEE Conference on Computer
+  Vision and Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{5835--5843}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2017.618}.
+%Type = Article
+\bibitem[{Li et~al.(2015)Li, Qu, Li, Xie, Wu and Fan}]{li2015learning}
+\bibinfo{author}{Li, J.}, \bibinfo{author}{Qu, Y.}, \bibinfo{author}{Li, C.},
+  \bibinfo{author}{Xie, Y.}, \bibinfo{author}{Wu, Y.}, \bibinfo{author}{Fan,
+  J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Learning local gaussian process regression for image
+  super-resolution}.
+\newblock \bibinfo{journal}{Neurocomputing} \bibinfo{volume}{154},
+  \bibinfo{pages}{284 -- 295}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S0925231214016580},
+  \DOIprefix\doi{https://doi.org/10.1016/j.neucom.2014.11.064}.
+%Type = Article
+\bibitem[{Lin and Shum(2004)}]{lin2004fundamental}
+\bibinfo{author}{Lin, Z.}, \bibinfo{author}{Shum, H.Y.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{Fundamental limits of reconstruction-based
+  superresolution algorithms under local translation}.
+\newblock \bibinfo{journal}{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence} \bibinfo{volume}{26}, \bibinfo{pages}{83--97}.
+\newblock \DOIprefix\doi{10.1109/TPAMI.2004.1261081}.
+%Type = Article
+\bibitem[{Lu et~al.(2013)Lu, Yuan and Yan}]{lu2013image}
+\bibinfo{author}{Lu, X.}, \bibinfo{author}{Yuan, Y.}, \bibinfo{author}{Yan,
+  P.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Image super-resolution via double sparsity
+  regularized manifold learning}.
+\newblock \bibinfo{journal}{IEEE Transactions on Circuits and Systems for Video
+  Technology} \bibinfo{volume}{23}, \bibinfo{pages}{2022--2033}.
+\newblock \DOIprefix\doi{10.1109/TCSVT.2013.2244798}.
+%Type = Article
+\bibitem[{Lu et~al.(2014)Lu, Yuan and Yan}]{lu2014alternatively}
+\bibinfo{author}{Lu, X.}, \bibinfo{author}{Yuan, Y.}, \bibinfo{author}{Yan,
+  P.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Alternatively constrained dictionary learning for
+  image superresolution}.
+\newblock \bibinfo{journal}{IEEE Transactions on Cybernetics}
+  \bibinfo{volume}{44}, \bibinfo{pages}{366--377}.
+\newblock \DOIprefix\doi{10.1109/TCYB.2013.2256347}.
+%Type = Article
+\bibitem[{Luo et~al.(2018)Luo, Sun, Yiu, Jin and Peng}]{LUO2018315}
+\bibinfo{author}{Luo, J.}, \bibinfo{author}{Sun, X.}, \bibinfo{author}{Yiu,
+  M.L.}, \bibinfo{author}{Jin, L.}, \bibinfo{author}{Peng, X.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Piecewise linear regression-based single image
+  super-resolution via hadamard transform}.
+\newblock \bibinfo{journal}{Information Sciences} \bibinfo{volume}{462},
+  \bibinfo{pages}{315 -- 330}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S0020025518304717},
+  \DOIprefix\doi{https://doi.org/10.1016/j.ins.2018.06.030}.
+%Type = Article
+\bibitem[{Mallat and Yu(2010)}]{mallat2010super}
+\bibinfo{author}{Mallat, S.}, \bibinfo{author}{Yu, G.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Super-resolution with sparse mixing estimators}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{19}, \bibinfo{pages}{2889--2900}.
+\newblock \DOIprefix\doi{10.1109/TIP.2010.2049927}.
+%Type = Article
+\bibitem[{Ni and Nguyen(2007)}]{ni2007image}
+\bibinfo{author}{Ni, K.S.}, \bibinfo{author}{Nguyen, T.Q.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{Image superresolution using support vector
+  regression}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{16}, \bibinfo{pages}{1596--1610}.
+\newblock \DOIprefix\doi{10.1109/TIP.2007.896644}.
+%Type = Inproceedings
+\bibitem[{Schulter et~al.(2015)Schulter, Leistner and
+  Bischof}]{schulter2015fast}
+\bibinfo{author}{Schulter, S.}, \bibinfo{author}{Leistner, C.},
+  \bibinfo{author}{Bischof, H.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Fast and accurate image upscaling with
+  super-resolution forests}, in: \bibinfo{booktitle}{IEEE Conference on
+  Computer Vision and Pattern Recognition (CVPR)}, pp.
+  \bibinfo{pages}{3791--3799}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2015.7299003}.
+%Type = Inproceedings
+\bibitem[{Shi et~al.(2016)Shi, Caballero, Huszár, Totz, Aitken, Bishop,
+  Rueckert and Wang}]{shi2016real}
+\bibinfo{author}{Shi, W.}, \bibinfo{author}{Caballero, J.},
+  \bibinfo{author}{Huszár, F.}, \bibinfo{author}{Totz, J.},
+  \bibinfo{author}{Aitken, A.P.}, \bibinfo{author}{Bishop, R.},
+  \bibinfo{author}{Rueckert, D.}, \bibinfo{author}{Wang, Z.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Real-time single image and video super-resolution
+  using an efficient sub-pixel convolutional neural network}, in:
+  \bibinfo{booktitle}{2016 IEEE Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pp. \bibinfo{pages}{1874--1883}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2016.207}.
+%Type = Article
+\bibitem[{Sidike et~al.(2017)Sidike, Krieger, Alom, Asari and
+  Taha}]{sidike2017fast}
+\bibinfo{author}{Sidike, P.}, \bibinfo{author}{Krieger, E.},
+  \bibinfo{author}{Alom, M.Z.}, \bibinfo{author}{Asari, V.K.},
+  \bibinfo{author}{Taha, T.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{A fast single-image super-resolution via directional
+  edge-guided regularized extreme learning regression}.
+\newblock \bibinfo{journal}{Signal, Image and Video Processing}
+  \bibinfo{volume}{11}, \bibinfo{pages}{961--968}.
+\newblock \URLprefix \url{https://doi.org/10.1007/s11760-016-1045-8},
+  \DOIprefix\doi{10.1007/s11760-016-1045-8}.
+%Type = Inproceedings
+\bibitem[{Tai et~al.(2017)Tai, Yang and Liu}]{tai2017image}
+\bibinfo{author}{Tai, Y.}, \bibinfo{author}{Yang, J.}, \bibinfo{author}{Liu,
+  X.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Image super-resolution via deep recursive residual
+  network}, in: \bibinfo{booktitle}{2017 IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pp. \bibinfo{pages}{2790--2798}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2017.298}.
+%Type = Inproceedings
+\bibitem[{Timofte et~al.(2013)Timofte, De and Gool}]{timofte2013anchored}
+\bibinfo{author}{Timofte, R.}, \bibinfo{author}{De, V.}, \bibinfo{author}{Gool,
+  L.V.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Anchored neighborhood regression for fast
+  example-based super-resolution}, in: \bibinfo{booktitle}{2013 IEEE
+  International Conference on Computer Vision}, pp.
+  \bibinfo{pages}{1920--1927}.
+\newblock \DOIprefix\doi{10.1109/ICCV.2013.241}.
+%Type = Inproceedings
+\bibitem[{Timofte et~al.(2014)Timofte, De~Smet and Van~Gool}]{timofte2014a+}
+\bibinfo{author}{Timofte, R.}, \bibinfo{author}{De~Smet, V.},
+  \bibinfo{author}{Van~Gool, L.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{A+: Adjusted anchored neighborhood regression for
+  fast super-resolution}, in: \bibinfo{booktitle}{Asian Conference on Computer
+  Vision (ACCV)}, pp. \bibinfo{pages}{111--126}.
+\newblock \DOIprefix\doi{10.1007/978-3-319-16817-3_8}.
+%Type = Article
+\bibitem[{Wang et~al.(2016)Wang, Gao, Zhang and Li}]{wang2016image}
+\bibinfo{author}{Wang, H.}, \bibinfo{author}{Gao, X.}, \bibinfo{author}{Zhang,
+  K.}, \bibinfo{author}{Li, J.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Image super-resolution using non-local gaussian
+  process regression}.
+\newblock \bibinfo{journal}{Neurocomputing} \bibinfo{volume}{194},
+  \bibinfo{pages}{95 -- 106}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S0925231216002332},
+  \DOIprefix\doi{https://doi.org/10.1016/j.neucom.2016.01.073}.
+%Type = Article
+\bibitem[{Wang et~al.(2017)Wang, Gao, Zhang and Li}]{wang2017single}
+\bibinfo{author}{Wang, H.}, \bibinfo{author}{Gao, X.}, \bibinfo{author}{Zhang,
+  K.}, \bibinfo{author}{Li, J.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Single image super-resolution using gaussian process
+  regression with dictionary-based sampling and student- ${t}$ likelihood}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{26}, \bibinfo{pages}{3556--3568}.
+\newblock \DOIprefix\doi{10.1109/TIP.2017.2700725}.
+%Type = Inproceedings
+\bibitem[{Wang et~al.(2012)Wang, Zhang, Liang and Pan}]{wang2012semi}
+\bibinfo{author}{Wang, S.}, \bibinfo{author}{Zhang, L.},
+  \bibinfo{author}{Liang, Y.}, \bibinfo{author}{Pan, Q.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Semi-coupled dictionary learning with applications to
+  image super-resolution and photo-sketch synthesis}, in:
+  \bibinfo{booktitle}{2012 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pp. \bibinfo{pages}{2216--2223}.
+\newblock \DOIprefix\doi{10.1109/CVPR.2012.6247930}.
+%Type = Article
+\bibitem[{Xiong et~al.(2018)Xiong, Gui, Hou and Ding}]{xiong2018gradient}
+\bibinfo{author}{Xiong, D.}, \bibinfo{author}{Gui, Q.}, \bibinfo{author}{Hou,
+  W.}, \bibinfo{author}{Ding, M.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Gradient boosting for single image super-resolution}.
+\newblock \bibinfo{journal}{Information Sciences} \bibinfo{volume}{454-455},
+  \bibinfo{pages}{328 -- 343}.
+\newblock \URLprefix
+  \url{http://www.sciencedirect.com/science/article/pii/S0020025516316401},
+  \DOIprefix\doi{https://doi.org/10.1016/j.ins.2018.04.075}.
+%Type = Inproceedings
+\bibitem[{Yang and Yang(2013)}]{yang2013fast}
+\bibinfo{author}{Yang, C.Y.}, \bibinfo{author}{Yang, M.H.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Fast direct super-resolution by simple functions},
+  in: \bibinfo{booktitle}{2013 IEEE International Conference on Computer
+  Vision}, pp. \bibinfo{pages}{561--568}.
+\newblock \DOIprefix\doi{10.1109/ICCV.2013.75}.
+%Type = Article
+\bibitem[{Yang et~al.(2012)Yang, Wang, Lin, Cohen and Huang}]{yang2012coupled}
+\bibinfo{author}{Yang, J.}, \bibinfo{author}{Wang, Z.}, \bibinfo{author}{Lin,
+  Z.}, \bibinfo{author}{Cohen, S.}, \bibinfo{author}{Huang, T.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Coupled dictionary training for image
+  super-resolution}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{21}, \bibinfo{pages}{3467--3478}.
+\newblock \DOIprefix\doi{10.1109/TIP.2012.2192127}.
+%Type = Article
+\bibitem[{Yang et~al.(2010)Yang, Wright, Huang and Ma}]{yang2010image}
+\bibinfo{author}{Yang, J.}, \bibinfo{author}{Wright, J.},
+  \bibinfo{author}{Huang, T.S.}, \bibinfo{author}{Ma, Y.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Image super-resolution via sparse representation}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{19}, \bibinfo{pages}{2861--2873}.
+\newblock \DOIprefix\doi{10.1109/TIP.2010.2050625}.
+%Type = Inproceedings
+\bibitem[{Zeyde et~al.(2012)Zeyde, Elad and Protter}]{zeyde2010single}
+\bibinfo{author}{Zeyde, R.}, \bibinfo{author}{Elad, M.},
+  \bibinfo{author}{Protter, M.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{On single image scale-up using
+  sparse-representations}, in: \bibinfo{booktitle}{Proceedings of the 7th
+  International Conference on Curves and Surfaces},
+  \bibinfo{publisher}{Springer-Verlag}, \bibinfo{address}{Berlin, Heidelberg}.
+  pp. \bibinfo{pages}{711--730}.
+\newblock \URLprefix \url{https://doi.org/10.1007/978-3-642-27413-8_47},
+  \DOIprefix\doi{10.1007/978-3-642-27413-8_47}.
+%Type = Article
+\bibitem[{Zhang et~al.(2015)Zhang, Tao, Gao, Li and Xiong}]{zhang2015learning}
+\bibinfo{author}{Zhang, K.}, \bibinfo{author}{Tao, D.}, \bibinfo{author}{Gao,
+  X.}, \bibinfo{author}{Li, X.}, \bibinfo{author}{Xiong, Z.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Learning multiple linear mappings for efficient
+  single image super-resolution}.
+\newblock \bibinfo{journal}{IEEE Transactions on Image Processing}
+  \bibinfo{volume}{24}, \bibinfo{pages}{846--861}.
+\newblock \DOIprefix\doi{10.1109/TIP.2015.2389629}.
+
+\end{thebibliography}

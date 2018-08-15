@@ -1,0 +1,1267 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.3.13)  7 AUG 2018 22:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./elsarticle-template.tex
+(./elsarticle-template.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/texlive/2016/texmf-dist/tex/latex/elsarticle/elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(c:/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+(./elsarticle-template.spl)
+(c:/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+\openout3 = `elsarticle-template.spl'.
+
+)
+(c:/texlive/2016/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count95
+\output=\toks17
+\linenoprevgraf=\count96
+\linenumbersep=\dimen109
+\linenumberwidth=\dimen110
+\c@linenumber=\count97
+\c@pagewiselinenumber=\count98
+\c@LN@truepage=\count99
+\c@internallinenumber=\count100
+\c@internallinenumbers=\count101
+\quotelinenumbersep=\dimen111
+\bframerule=\dimen112
+\bframesep=\dimen113
+\bframebox=\box30
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
+
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count104
+
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count105
+
+(c:/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count106
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(c:/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
+
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip47
+)
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen118
+))
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen119
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count112
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count113
+\leftroot@=\count114
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count115
+\DOTSCASE@=\count116
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count117
+\c@MaxMatrixCols=\count118
+\dotsspace@=\muskip11
+\c@parentequation=\count119
+\dspbrk@lvl=\count120
+\tag@help=\toks19
+\row@=\count121
+\column@=\count122
+\maxfields@=\count123
+\andhelp@=\toks20
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks21
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen127
+\epsfysize=\dimen128
+)
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(c:/texlive/2016/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(c:/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks23
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\rotheadsize=\dimen131
+\c@nlinenum=\count124
+\TeXr@lab=\toks24
+)
+(c:/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen132
+\lightrulewidth=\dimen133
+\cmidrulewidth=\dimen134
+\belowrulesep=\dimen135
+\belowbottomsep=\dimen136
+\aboverulesep=\dimen137
+\abovetopsep=\dimen138
+\cmidrulesep=\dimen139
+\cmidrulekern=\dimen140
+\defaultaddspace=\dimen141
+\@cmidla=\count125
+\@cmidlb=\count126
+\@aboverulesep=\dimen142
+\@belowrulesep=\dimen143
+\@thisruleclass=\count127
+\@lastruleclass=\count128
+\@thisrulewidth=\dimen144
+)
+(c:/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count129
+\multirow@dima=\skip54
+\bigstrutjot=\dimen145
+)
+(c:/texlive/2016/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box33
+)
+(c:/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/texlive/2016/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2016/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count130
+\c@ALG@rem=\count131
+\c@ALG@nested=\count132
+\ALG@tlm=\skip55
+\ALG@thistlm=\skip56
+\c@ALG@Lnr=\count133
+\c@ALG@blocknr=\count134
+\c@ALG@storecount=\count135
+\c@ALG@tmpcounter=\count136
+\ALG@tmplength=\skip57
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (c:/texlive/2016/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(c:/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count137
+\float@exts=\toks25
+\float@box=\box34
+\@float@everytoks=\toks26
+\@floatcapt=\box35
+)
+\@float@every@algorithm=\toks27
+\c@algorithm=\count138
+)
+(c:/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(c:/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks28
+\minrowclearance=\skip58
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count139
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip59
+\subfigcapskip=\skip60
+\subfigcaptopadj=\dimen146
+\subfigbottomskip=\skip61
+\subfigcapmargin=\dimen147
+\subfiglabelskip=\skip62
+\c@subfigure=\count140
+\c@lofdepth=\count141
+\c@subtable=\count142
+\c@lotdepth=\count143
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip63
+\subfig@bottom=\skip64
+)
+(./elsarticle-template.aux)
+\openout1 = `elsarticle-template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 52.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen148
+\scratchbox=\box36
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen149
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks30
+)
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 52.
+ (c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count150
+)
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
+
+(./elsarticle-template.out) (./elsarticle-template.out)
+\@outlinefile=\write4
+\openout4 = `elsarticle-template.out'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 69.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 74.
+
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+
+(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+{c:/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [3] [4]
+Overfull \hbox (8.23625pt too wide) in paragraph at lines 103--104
+\OT1/ptm/m/n/10 ran-dom for-est is com-prised of mul-ti-ple de-ci-sion trees. A
+ll the meth-ods in[[]][[]][[]][[]]
+ []
+
+[5]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [6]
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ² in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ <graphs/ELMs.pdf, id=212, 539.76656pt x 723.45282pt>
+File: graphs/ELMs.pdf Graphic file (type pdf)
+
+<use graphs/ELMs.pdf>
+Package pdftex.def Info: graphs/ELMs.pdf used on input line 158.
+(pdftex.def)             Requested size: 207.0021pt x 277.4539pt.
+ [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.165 
+       <./graphs/ELMs.pdf>]
+<graphs/FlowForTraining_e.pdf, id=443, 402.75468pt x 288.3272pt>
+File: graphs/FlowForTraining_e.pdf Graphic file (type pdf)
+
+<use graphs/FlowForTraining_e.pdf>
+Package pdftex.def Info: graphs/FlowForTraining_e.pdf used on input line 172.
+(pdftex.def)             Requested size: 276.00105pt x 197.58652pt.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no — in font cmr10!
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.178 
+       <./graphs/FlowForTraining_e.pdf>] [10]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+<graphs/FlowForRecon_e.pdf, id=479, 450.9347pt x 283.81032pt>
+File: graphs/FlowForRecon_e.pdf Graphic file (type pdf)
+
+<use graphs/FlowForRecon_e.pdf>
+Package pdftex.def Info: graphs/FlowForRecon_e.pdf used on input line 196.
+(pdftex.def)             Requested size: 276.00105pt x 173.71732pt.
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no — in font ptmr7t!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no — in font cmr10!
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no — in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [11] [12pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.206 \subsubsection
+                    {Experimental Setting} <./graphs/FlowForRecon_e.pdf>]
+<Fig_hiddenNodes.png, id=518, 437.38406pt x 411.78844pt>
+File: Fig_hiddenNodes.png Graphic file (type png)
+
+<use Fig_hiddenNodes.png>
+Package pdftex.def Info: Fig_hiddenNodes.png used on input line 216.
+(pdftex.def)             Requested size: 207.0021pt x 194.89151pt.
+ [13]
+
+pdfTeX warning: pdflatex.exe (file ./chart_set5.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<chart_set5.pdf, id=540, 845.07724pt x 597.55246pt>
+File: chart_set5.pdf Graphic file (type pdf)
+ <use chart_set5.pdf>
+Package pdftex.def Info: chart_set5.pdf used on input line 231.
+(pdftex.def)             Requested size: 165.59853pt x 117.09212pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./chart_set14.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<chart_set14.pdf, id=541, 845.07724pt x 597.55246pt>
+File: chart_set14.pdf Graphic file (type pdf)
+ <use chart_set14.pdf>
+Package pdftex.def Info: chart_set14.pdf used on input line 237.
+(pdftex.def)             Requested size: 165.59853pt x 117.09212pt.
+
+Overfull \hbox (1.76573pt too wide) in paragraph at lines 242--243
+\OT1/ptm/m/n/10 SRHDT$[]$f* method is a decision-tree-based SR method, and the 
+RFL method is random-
+ []
+
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.243 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.243 
+       <./Fig_hiddenNodes.png (PNG copy)> <./chart_set5.pdf> <./chart_set14.pdf
+>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 245.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 268.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 271.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 299.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 330.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./norm_PSNR.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<norm_PSNR.pdf, id=586, 845.07724pt x 597.55246pt>
+File: norm_PSNR.pdf Graphic file (type pdf)
+ <use norm_PSNR.pdf>
+Package pdftex.def Info: norm_PSNR.pdf used on input line 363.
+(pdftex.def)             Requested size: 165.59853pt x 117.09212pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./norm_SSIM.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<norm_SSIM.pdf, id=587, 845.07724pt x 597.55246pt>
+File: norm_SSIM.pdf Graphic file (type pdf)
+ <use norm_SSIM.pdf>
+Package pdftex.def Info: norm_SSIM.pdf used on input line 368.
+(pdftex.def)             Requested size: 165.59853pt x 117.09212pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./norm_time.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<norm_time.pdf, id=588, 845.07724pt x 597.55246pt>
+File: norm_time.pdf Graphic file (type pdf)
+ <use norm_time.pdf>
+Package pdftex.def Info: norm_time.pdf used on input line 374.
+(pdftex.def)             Requested size: 169.0519pt x 119.53572pt.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [15pdfTeX warning (ext4): destination with the same identifier (name{table.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.380 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.2
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.380 
+      ] [16pdfTeX warning (ext4): destination with the same identifier (name{ta
+ble.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.380 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.4
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.380 
+      ]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [17pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.384 
+       <./norm_PSNR.pdf> <./norm_SSIM.pdf> <./norm_time.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 385.
+
+<compareImage/zebra_crop_Bicu.png, id=639, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_Bicu.png Graphic file (type png)
+
+<use compareImage/zebra_crop_Bicu.png>
+Package pdftex.def Info: compareImage/zebra_crop_Bicu.png used on input line 41
+6.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/Bicubic_zebra_mag_2.png, id=640, 233.37187pt x 383.93437pt>
+File: compareImage/Bicubic_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/Bicubic_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/Bicubic_zebra_mag_2.png used on input lin
+e 416.
+(pdftex.def)             Requested size: 41.39832pt x 68.10342pt.
+
+<compareImage/zebra_crop_SME.png, id=641, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_SME.png Graphic file (type png)
+
+<use compareImage/zebra_crop_SME.png>
+Package pdftex.def Info: compareImage/zebra_crop_SME.png used on input line 422
+.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/SME_zebra_mag_2.png, id=642, 233.37187pt x 383.93437pt>
+File: compareImage/SME_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/SME_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/SME_zebra_mag_2.png used on input line 42
+2.
+(pdftex.def)             Requested size: 41.39832pt x 68.10342pt.
+
+<compareImage/zebra_crop_lapSRN.png, id=643, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_lapSRN.png Graphic file (type png)
+
+<use compareImage/zebra_crop_lapSRN.png>
+Package pdftex.def Info: compareImage/zebra_crop_lapSRN.png used on input line 
+428.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/LapSRN_zebra_mag_2.png, id=644, 233.37187pt x 383.93437pt>
+File: compareImage/LapSRN_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/LapSRN_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/LapSRN_zebra_mag_2.png used on input line
+ 428.
+(pdftex.def)             Requested size: 41.39832pt x 68.10342pt.
+
+<compareImage/zebra_crop_PLHT.png, id=645, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_PLHT.png Graphic file (type png)
+
+<use compareImage/zebra_crop_PLHT.png>
+Package pdftex.def Info: compareImage/zebra_crop_PLHT.png used on input line 43
+4.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/PLHT_zebra_mag_2.png, id=646, 311.1625pt x 511.9125pt>
+File: compareImage/PLHT_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/PLHT_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/PLHT_zebra_mag_2.png used on input line 4
+34.
+(pdftex.def)             Requested size: 41.39832pt x 68.10538pt.
+
+<compareImage/zebra_crop_OUR.png, id=647, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_OUR.png Graphic file (type png)
+
+<use compareImage/zebra_crop_OUR.png>
+Package pdftex.def Info: compareImage/zebra_crop_OUR.png used on input line 440
+.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/OUR_zebra_mag_2.png, id=648, 233.37187pt x 383.93437pt>
+File: compareImage/OUR_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/OUR_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/OUR_zebra_mag_2.png used on input line 44
+0.
+(pdftex.def)             Requested size: 41.39832pt x 68.10342pt.
+
+<compareImage/zebra_crop_ORI.png, id=649, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_ORI.png Graphic file (type png)
+
+<use compareImage/zebra_crop_ORI.png>
+Package pdftex.def Info: compareImage/zebra_crop_ORI.png used on input line 446
+.
+(pdftex.def)             Requested size: 41.39832pt x 126.54974pt.
+
+<compareImage/ORI_zebra_mag_2.png, id=650, 233.37187pt x 383.93437pt>
+File: compareImage/ORI_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/ORI_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/ORI_zebra_mag_2.png used on input line 44
+6.
+(pdftex.def)             Requested size: 41.39832pt x 68.10342pt.
+
+<compareImage/zebra_crop_FIRF.png, id=651, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_FIRF.png Graphic file (type png)
+
+<use compareImage/zebra_crop_FIRF.png>
+Package pdftex.def Info: compareImage/zebra_crop_FIRF.png used on input line 45
+8.
+(pdftex.def)             Requested size: 51.7479pt x 158.18861pt.
+
+<compareImage/FIRF_zebra_mag_2.png, id=652, 233.37187pt x 383.93437pt>
+File: compareImage/FIRF_zebra_mag_2.png Graphic file (type png)
+
+<use compareImage/FIRF_zebra_mag_2.png>
+Package pdftex.def Info: compareImage/FIRF_zebra_mag_2.png used on input line 4
+58.
+(pdftex.def)             Requested size: 51.7479pt x 85.13367pt.
+
+<compareImage/zebra_crop_G_OUR.png, id=653, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_G_OUR.png Graphic file (type png)
+
+<use compareImage/zebra_crop_G_OUR.png>
+Package pdftex.def Info: compareImage/zebra_crop_G_OUR.png used on input line 4
+64.
+(pdftex.def)             Requested size: 51.7479pt x 158.18861pt.
+
+<compareImage/OUR_zebra_mag_G_2.png, id=654, 233.37187pt x 383.93437pt>
+File: compareImage/OUR_zebra_mag_G_2.png Graphic file (type png)
+
+<use compareImage/OUR_zebra_mag_G_2.png>
+Package pdftex.def Info: compareImage/OUR_zebra_mag_G_2.png used on input line 
+464.
+(pdftex.def)             Requested size: 51.7479pt x 85.13367pt.
+
+<compareImage/zebra_crop_G_ORI.png, id=655, 123.46124pt x 377.41pt>
+File: compareImage/zebra_crop_G_ORI.png Graphic file (type png)
+
+<use compareImage/zebra_crop_G_ORI.png>
+Package pdftex.def Info: compareImage/zebra_crop_G_ORI.png used on input line 4
+70.
+(pdftex.def)             Requested size: 51.7479pt x 158.18861pt.
+
+<compareImage/ORI_zebra_mag_G_2.png, id=656, 233.37187pt x 383.93437pt>
+File: compareImage/ORI_zebra_mag_G_2.png Graphic file (type png)
+
+<use compareImage/ORI_zebra_mag_G_2.png>
+Package pdftex.def Info: compareImage/ORI_zebra_mag_G_2.png used on input line 
+470.
+(pdftex.def)             Requested size: 51.7479pt x 85.13367pt.
+ [18pdfTeX warning (ext4): destination with the same identifier (name{table.5})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.477 
+      ]
+<compareImage/flower_crop_2_Bicubic.png, id=674, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_Bicubic.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_Bicubic.png>
+Package pdftex.def Info: compareImage/flower_crop_2_Bicubic.png used on input l
+ine 488.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/Bicubic_flowers_mag_2.png, id=675, 195.73125pt x 195.73125pt>
+File: compareImage/Bicubic_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/Bicubic_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/Bicubic_flowers_mag_2.png used on input l
+ine 488.
+(pdftex.def)             Requested size: 41.39832pt x 41.39746pt.
+
+<compareImage/flower_crop_2_SME.png, id=676, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_SME.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_SME.png>
+Package pdftex.def Info: compareImage/flower_crop_2_SME.png used on input line 
+494.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/SME_flowers_mag_2.png, id=677, 195.73125pt x 195.73125pt>
+File: compareImage/SME_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/SME_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/SME_flowers_mag_2.png used on input line 
+494.
+(pdftex.def)             Requested size: 41.39832pt x 41.39746pt.
+
+<compareImage/flower_crop_2_LapSRN.png, id=678, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_LapSRN.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_LapSRN.png>
+Package pdftex.def Info: compareImage/flower_crop_2_LapSRN.png used on input li
+ne 500.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/LapSRN_flowers_mag_2.png, id=679, 195.73125pt x 195.73125pt>
+File: compareImage/LapSRN_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/LapSRN_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/LapSRN_flowers_mag_2.png used on input li
+ne 500.
+(pdftex.def)             Requested size: 41.39832pt x 41.39746pt.
+
+<compareImage/flower_crop_PLHT.png, id=680, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_PLHT.png Graphic file (type png)
+
+<use compareImage/flower_crop_PLHT.png>
+Package pdftex.def Info: compareImage/flower_crop_PLHT.png used on input line 5
+06.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/PLHT_flower_mag_2.png, id=681, 260.975pt x 260.975pt>
+File: compareImage/PLHT_flower_mag_2.png Graphic file (type png)
+
+<use compareImage/PLHT_flower_mag_2.png>
+Package pdftex.def Info: compareImage/PLHT_flower_mag_2.png used on input line 
+506.
+(pdftex.def)             Requested size: 41.39832pt x 41.39845pt.
+
+<compareImage/flower_crop_2_OUR.png, id=682, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_OUR.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_OUR.png>
+Package pdftex.def Info: compareImage/flower_crop_2_OUR.png used on input line 
+512.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/OUR_flowers_mag_2.png, id=683, 195.73125pt x 195.73125pt>
+File: compareImage/OUR_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/OUR_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/OUR_flowers_mag_2.png used on input line 
+512.
+(pdftex.def)             Requested size: 41.39832pt x 41.39746pt.
+
+<compareImage/flower_crop_2_ORI.png, id=684, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_ORI.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_ORI.png>
+Package pdftex.def Info: compareImage/flower_crop_2_ORI.png used on input line 
+518.
+(pdftex.def)             Requested size: 41.39832pt x 41.39815pt.
+
+<compareImage/ORI_flowers_mag_2.png, id=685, 195.73125pt x 195.73125pt>
+File: compareImage/ORI_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/ORI_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/ORI_flowers_mag_2.png used on input line 
+518.
+(pdftex.def)             Requested size: 41.39832pt x 41.39746pt.
+ [19pdfTeX warning (ext4): destination with the same identifier (name{figure.7}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.522 
+       <./compareImage/zebra_crop_Bicu.png (PNG copy)> <./compareImage/Bicubic_
+zebra_mag_2.png (PNG copy)> <./compareImage/zebra_crop_SME.png (PNG copy)> <./c
+ompareImage/SME_zebra_mag_2.png (PNG copy)> <./compareImage/zebra_crop_lapSRN.p
+ng (PNG copy)> <./compareImage/LapSRN_zebra_mag_2.png (PNG copy)> <./compareIma
+ge/zebra_crop_PLHT.png (PNG copy)> <./compareImage/PLHT_zebra_mag_2.png (PNG co
+py)> <./compareImage/zebra_crop_OUR.png (PNG copy)> <./compareImage/OUR_zebra_m
+ag_2.png (PNG copy)> <./compareImage/zebra_crop_ORI.png (PNG copy)> <./compareI
+mage/ORI_zebra_mag_2.png (PNG copy)>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [20pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.524 
+       <./compareImage/zebra_crop_FIRF.png (PNG copy)> <./compareImage/FIRF_zeb
+ra_mag_2.png (PNG copy)> <./compareImage/zebra_crop_G_OUR.png (PNG copy)> <./co
+mpareImage/OUR_zebra_mag_G_2.png (PNG copy)> <./compareImage/zebra_crop_G_ORI.p
+ng (PNG copy)> <./compareImage/ORI_zebra_mag_G_2.png (PNG copy)>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
+<compareImage/flower_crop_2_FIRF.png, id=710, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_2_FIRF.png Graphic file (type png)
+
+<use compareImage/flower_crop_2_FIRF.png>
+Package pdftex.def Info: compareImage/flower_crop_2_FIRF.png used on input line
+ 533.
+(pdftex.def)             Requested size: 58.64937pt x 58.64883pt.
+
+<compareImage/FIRF_flowers_mag_2.png, id=711, 195.73125pt x 195.73125pt>
+File: compareImage/FIRF_flowers_mag_2.png Graphic file (type png)
+
+<use compareImage/FIRF_flowers_mag_2.png>
+Package pdftex.def Info: compareImage/FIRF_flowers_mag_2.png used on input line
+ 533.
+(pdftex.def)             Requested size: 58.64937pt x 58.64813pt.
+
+<compareImage/flower_crop_G_2_OUR.png, id=712, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_G_2_OUR.png Graphic file (type png)
+
+<use compareImage/flower_crop_G_2_OUR.png>
+Package pdftex.def Info: compareImage/flower_crop_G_2_OUR.png used on input lin
+e 539.
+(pdftex.def)             Requested size: 58.64937pt x 58.64883pt.
+
+<compareImage/OUR_flowers_mag_G_2.png, id=713, 195.73125pt x 195.73125pt>
+File: compareImage/OUR_flowers_mag_G_2.png Graphic file (type png)
+
+<use compareImage/OUR_flowers_mag_G_2.png>
+Package pdftex.def Info: compareImage/OUR_flowers_mag_G_2.png used on input lin
+e 539.
+(pdftex.def)             Requested size: 58.64937pt x 58.64813pt.
+
+<compareImage/flower_crop_G_2_ORI.png, id=714, 190.7125pt x 190.7125pt>
+File: compareImage/flower_crop_G_2_ORI.png Graphic file (type png)
+
+<use compareImage/flower_crop_G_2_ORI.png>
+Package pdftex.def Info: compareImage/flower_crop_G_2_ORI.png used on input lin
+e 545.
+(pdftex.def)             Requested size: 58.64937pt x 58.64883pt.
+
+<compareImage/ORI_flowers_mag_G_2.png, id=715, 195.73125pt x 195.73125pt>
+File: compareImage/ORI_flowers_mag_G_2.png Graphic file (type png)
+
+<use compareImage/ORI_flowers_mag_G_2.png>
+Package pdftex.def Info: compareImage/ORI_flowers_mag_G_2.png used on input lin
+e 545.
+(pdftex.def)             Requested size: 58.64937pt x 58.64813pt.
+ [21pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.550 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+10}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.550 
+       <./compareImage/flower_crop_2_Bicubic.png (PNG copy)> <./compareImage/Bi
+cubic_flowers_mag_2.png (PNG copy)> <./compareImage/flower_crop_2_SME.png (PNG 
+copy)> <./compareImage/SME_flowers_mag_2.png (PNG copy)> <./compareImage/flower
+_crop_2_LapSRN.png (PNG copy)> <./compareImage/LapSRN_flowers_mag_2.png (PNG co
+py)> <./compareImage/flower_crop_PLHT.png (PNG copy)> <./compareImage/PLHT_flow
+er_mag_2.png (PNG copy)> <./compareImage/flower_crop_2_OUR.png (PNG copy)> <./c
+ompareImage/OUR_flowers_mag_2.png (PNG copy)> <./compareImage/flower_crop_2_ORI
+.png (PNG copy)> <./compareImage/ORI_flowers_mag_2.png (PNG copy)> <./compareIm
+age/flower_crop_2_FIRF.png (PNG copy)> <./compareImage/FIRF_flowers_mag_2.png (
+PNG copy)> <./compareImage/flower_crop_G_2_OUR.png (PNG copy)> <./compareImage/
+OUR_flowers_mag_G_2.png (PNG copy)> <./compareImage/flower_crop_G_2_ORI.png (PN
+G copy)> <./compareImage/ORI_flowers_mag_G_2.png (PNG copy)>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [22]
+(./elsarticle-template.bbl
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 21.
+
+(c:/texlive/2016/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 48--59
+\OT1/pcr/m/n/10 com / science / article / pii / S1063520307000218$[]\OT1/ptm/m/
+n/10 , doi:[]$\OT1/pcr/m/n/10 https :
+ []
+
+[23] [24]
+Underfull \hbox (badness 3482) in paragraph at lines 130--140
+[]\OT1/ptm/m/n/10 Huang, G.B., Zhu, Q.Y., Siew, C.K., 2006.  Ex-treme learn-ing
+ ma-
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 130--140
+\OT1/ptm/m/n/10 chine: The-ory and ap-pli-ca-tions.  Neu-ro-com-put-ing 70, 489
+ -- 501.
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 130--140
+\OT1/ptm/m/n/10 URL: []$\OT1/pcr/m/n/10 http : / / www . sciencedirect . com / 
+science / article / pii /
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 165--173
+[]\OT1/ptm/m/n/10 Irani, M., Pe-leg, S., 1991.  Im-prov-ing res-o-lu-tion by im
+-age reg-is-tra-
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 165--173
+\OT1/ptm/m/n/10 tion.  CVGIP: Graph-i-cal Mod-els and Im-age Pro-cess-ing 53, 2
+31 -- 239.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--173
+\OT1/ptm/m/n/10 URL: []$\OT1/pcr/m/n/10 http : / / www . sciencedirect . com / 
+science / article /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--173
+\OT1/pcr/m/n/10 pii / 104996529190045L$[]\OT1/ptm/m/n/10 , doi:[]$\OT1/pcr/m/n/
+10 https : / / doi . org / 10 . 1016 /
+ []
+
+[25]
+Underfull \hbox (badness 1975) in paragraph at lines 208--219
+\OT1/ptm/m/n/10 URL: []$\OT1/pcr/m/n/10 http : / / www . sciencedirect . com / 
+science / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--257
+\OT1/pcr/m/n/10 com / science / article / pii / S0020025518304717$[]\OT1/ptm/m/
+n/10 , doi:[]$\OT1/pcr/m/n/10 https :
+ []
+
+[26]
+Missing character: There is no Ã in font ptmr7t!
+Missing character: There is no ¡ in font ptmr7t!
+
+Underfull \hbox (badness 1596) in paragraph at lines 298--308
+[]\OT1/ptm/m/n/10 Sidike, P., Krieger, E., Alom, M.Z., Asari, V.K., Taha, T., 2
+017.  A
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 298--308
+\OT1/ptm/m/n/10 fast single-image super-resolution via di-rec-tional edge-guide
+d reg-u-lar-ized
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 298--308
+\OT1/ptm/m/n/10 ex-treme learn-ing re-gres-sion.  Sig-nal, Im-age and Video Pro
+-cess-ing 11,
+ []
+
+[27]
+Underfull \hbox (badness 1975) in paragraph at lines 334--344
+\OT1/ptm/m/n/10 URL: []$\OT1/pcr/m/n/10 http : / / www . sciencedirect . com / 
+science / article / pii /
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 363--372
+\OT1/ptm/m/n/10 gle im-age super-resolution.  In-for-ma-tion Sci-ences 454-455,
+ 328 -- 343.
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 363--372
+\OT1/ptm/m/n/10 URL: []$\OT1/pcr/m/n/10 http : / / www . sciencedirect . com / 
+science / article / pii /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--372
+\OT1/pcr/m/n/10 S0020025516316401$[]\OT1/ptm/m/n/10 , doi:[]$\OT1/pcr/m/n/10 ht
+tps : / / doi . org / 10 . 1016 / j . ins .
+ []
+
+[28]
+Underfull \hbox (badness 1107) in paragraph at lines 400--410
+[]\OT1/ptm/m/n/10 Zeyde, R., Elad, M., Prot-ter, M., 2012.  On sin-gle im-age s
+cale-up us-
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 574.
+ [29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 574.
+ (./elsarticle-template.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 574.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 574.
+Package rerunfilecheck Info: File `elsarticle-template.out' has not changed.
+(rerunfilecheck)             Checksum: 2ED8B82D784F952BD5DFE25C2A180B89;1110.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 574.
+ ) 
+Here is how much of TeX's memory you used:
+ 9099 strings out of 493013
+ 132049 string characters out of 6136993
+ 260488 words of memory out of 5000000
+ 12287 multiletter control sequences out of 15000+600000
+ 25477 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,12n,35p,2041b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2016/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi8.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr10.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2016/tex
+mf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2016/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvr8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/u
+tmb8a.pfb><c:/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texl
+ive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on elsarticle-template.pdf (29 pages, 2859671 bytes).
+PDF statistics:
+ 948 PDF objects out of 1000 (max. 8388607)
+ 738 compressed objects within 8 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 354 words of extra memory for PDF output out of 10000 (max. 10000000)
+
